@@ -1,0 +1,21 @@
+= pexpect Notes
+:toc:
+
+== What
+
+https://pexpect.readthedocs.io/en/stable
+
+== Running this
+
+`python3 ./example.py` for demo.
+
+== Code
+
+[source,python]
+----
+include::./example.py[]
+----
+
+== References
+
+https://pexpect.readthedocs.io/en/stable/overview.html
